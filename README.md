@@ -1,6 +1,7 @@
 # My very first website
 
-Welcome! [Code Institute](https://codeinstitute.net)
+Welcome! [Code Institute](https://codeinstitute.net).
+
 This project was made as part of my Coding Institute Full Stack Web Developer programme.
 
 # Project Description
